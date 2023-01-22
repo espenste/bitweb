@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/bitweb/static/css/main.68208e50.css",
+    "main.js": "/bitweb/static/js/main.19a2f883.js",
+    "index.html": "/bitweb/index.html",
+    "main.68208e50.css.map": "/bitweb/static/css/main.68208e50.css.map",
+    "main.19a2f883.js.map": "/bitweb/static/js/main.19a2f883.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.68208e50.css",
+    "static/js/main.19a2f883.js"
+  ]
+}
